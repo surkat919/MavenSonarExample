@@ -1,0 +1,10 @@
+target
+*.iml
+.idea
+log
+coverage
+.DS_Store
+.classpath
+.factorypath
+.project
+.settings

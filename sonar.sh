@@ -1,0 +1,1 @@
+mvn clean package com.clouddefense.plugins:maven-clouddefense-plugin:aggregate && mvn sonar:sonar
